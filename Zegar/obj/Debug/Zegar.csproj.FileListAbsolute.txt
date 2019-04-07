@@ -1,0 +1,19 @@
+c:\users\norbert\documents\visual studio 2015\Projects\Zegar\Zegar\bin\Debug\Zegar.exe.config
+c:\users\norbert\documents\visual studio 2015\Projects\Zegar\Zegar\bin\Debug\Zegar.exe
+c:\users\norbert\documents\visual studio 2015\Projects\Zegar\Zegar\bin\Debug\Zegar.pdb
+c:\users\norbert\documents\visual studio 2015\Projects\Zegar\Zegar\obj\Debug\Zegar.csprojResolveAssemblyReference.cache
+c:\users\norbert\documents\visual studio 2015\Projects\Zegar\Zegar\obj\Debug\Zegar.Form1.resources
+c:\users\norbert\documents\visual studio 2015\Projects\Zegar\Zegar\obj\Debug\Zegar.Properties.Resources.resources
+c:\users\norbert\documents\visual studio 2015\Projects\Zegar\Zegar\obj\Debug\Zegar.csproj.GenerateResource.Cache
+c:\users\norbert\documents\visual studio 2015\Projects\Zegar\Zegar\obj\Debug\Zegar.exe
+c:\users\norbert\documents\visual studio 2015\Projects\Zegar\Zegar\obj\Debug\Zegar.pdb
+C:\Users\Cezary\Desktop\Zegar\Zegar\bin\Debug\Zegar.exe.config
+C:\Users\Cezary\Desktop\Zegar\Zegar\bin\Debug\Zegar.exe
+C:\Users\Cezary\Desktop\Zegar\Zegar\bin\Debug\Zegar.pdb
+C:\Users\Cezary\Desktop\Zegar\Zegar\obj\Debug\Zegar.csprojAssemblyReference.cache
+C:\Users\Cezary\Desktop\Zegar\Zegar\obj\Debug\Zegar.Form1.resources
+C:\Users\Cezary\Desktop\Zegar\Zegar\obj\Debug\Zegar.Properties.Resources.resources
+C:\Users\Cezary\Desktop\Zegar\Zegar\obj\Debug\Zegar.csproj.GenerateResource.cache
+C:\Users\Cezary\Desktop\Zegar\Zegar\obj\Debug\Zegar.csproj.CoreCompileInputs.cache
+C:\Users\Cezary\Desktop\Zegar\Zegar\obj\Debug\Zegar.exe
+C:\Users\Cezary\Desktop\Zegar\Zegar\obj\Debug\Zegar.pdb
